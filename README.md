@@ -40,15 +40,15 @@ npm start
 ## Screenshots
 
 Owner of the contract (who created election) can start election, add candidates and add voters.
-![Owner](https://github.com/user-attachments/assets/d0b939b6-f3b5-416c-b5c0-7f8a136ddc84)
+![Owner](https://github.com/user-attachments/assets/c5fe48ba-768b-4478-8953-ec393d330602)
 
 Voters can vote for candidates.
-![Voter](https://github.com/user-attachments/assets/2dac0817-39d5-4d8c-bdbd-c44d23f836c3)
+![Voter](https://github.com/user-attachments/assets/2d1596ad-3065-41c3-9f2f-567be9e5bebd)
 
 Ganache
-![Ganache](https://github.com/user-attachments/assets/bec38ffa-7ef7-499f-8f76-933b2f2a6090)
+![Ganache](https://github.com/user-attachments/assets/86409b75-a844-4cd0-a340-c301f5379996)
 
 Remix IDE
-![Remix](https://github.com/user-attachments/assets/df1a1986-dfde-48cb-b679-59a3c2b6a16f)
+![Remix](https://github.com/user-attachments/assets/0d2ebcf2-3efc-4d3b-8b24-20ca39e8285b)
 
 
